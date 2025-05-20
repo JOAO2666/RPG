@@ -1,6 +1,6 @@
 # UNI FIGHT (JOGO DE LUTA)
 
-Este é um projeto de RPG de luta desenvolvido para a disciplina de Algoritmos e Programação, ministrada pela professora Ana Emilia.
+Este é um projeto de RPG de luta para a disciplina de Algoritmos e Programação, ministrada pela professora Ana Emilia.
 
 ## Equipe
 - Milena Franca de Oliveira
