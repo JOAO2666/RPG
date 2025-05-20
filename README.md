@@ -1,13 +1,13 @@
-# RPG de Luta
+# UNI FIGHT (JOGO DE LUTA)
 
 Este é um projeto de RPG de luta desenvolvido para a disciplina de Algoritmos e Programação, ministrada pela professora Ana Emilia.
 
 ## Equipe
-- [Nome do integrante 1]
-- [Nome do integrante 2]
-- [Nome do integrante 3]
-- [Nome do integrante 4]
-- [Nome do integrante 5]
+- Milena Franca de Oliveira
+- Eduardo dos Santos Ferreira Sousa
+- Julia Ribeiro da Silva Carvalho
+- João Emanuel Almeida Ramos
+- Kayk Souza Calixto
 
 ## Como Contribuir
 1. Clone o repositório
